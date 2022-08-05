@@ -2,3 +2,5 @@
 a simple malware i created use at your own risk
 
 ONLY RUN IN A VM I WILL DESTROY YOU SYSTEM
+
+I AM NOT RESPONABLE FOR ANY DAMAGES CAUSED BY THIS MALWARE
